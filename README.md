@@ -8,8 +8,6 @@ Data Analyst Project Showcasing  OLA Data  Analysis Using Excel, SQL And Power B
 
 This project focuses on analyzing ride data from OLA to uncover business insights and improve decision-making. It covers the complete data analytics workflow, including data cleaning in Excel, querying using SQL, and building an interactive dashboard in Power BI. The objective is to identify trends in ride demand, revenue, and customer behavior.
 
----
-
 ## 📂 Dataset
 
 * The dataset contains OLA ride-related data such as:
